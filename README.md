@@ -1,2 +1,2 @@
-repository_of_aslanov
+repository_of_Gaidukov
 Это мой первый учебный репозиторий
